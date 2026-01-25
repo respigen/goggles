@@ -6,10 +6,10 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <ApplicationIcon>goggles.ico</ApplicationIcon>
+    <ApplicationIcon>resource/goggles.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-  <Content Include="goggles.ico">
+  <Content Include="resource/goggles.ico">
     <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
   </Content>
 </ItemGroup>
