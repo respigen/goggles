@@ -11,6 +11,7 @@
   * I don't know if I'd be able to make the window my active window again, so maybe I'll need another hotkey to universally remove all `WS_EX_TRANSPARENT` styles.
 * Maybe a sound when toggling? The system sounds aren't inspiring. It'd be an excuse to design sounds too.
 * I'd like to play with the colorref transparency options.
+* It would be nice to alter the transparency levels without having to do anything too complicated. Maybe an "alter" hotkey. 
 
 ## Past
 * This started out as a request from our team leader to play with agentic AI. From there, I trimmed it down and made it read+run better, made an icon.
